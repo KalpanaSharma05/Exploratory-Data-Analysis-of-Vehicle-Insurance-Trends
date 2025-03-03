@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of Vehicle Insurance Trends
 This project involves an in-depth analysis of Vehicle Insurance Trends using Python.
-
+![Capture Image](https://github.com/KalpanaSharma05/BigBasket-E--Comprehensive-Product-Analytics-for-BigBasket/blob/main/Capture2.PNG)
 ### Key Features of the Project:
 Data Cleaning and Preprocessing
 
